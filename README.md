@@ -78,7 +78,7 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 <a href="https://www.youtube.com/playlist?list=PLh_VNk4-EHTO1219rJzV1J9deFRyAsERn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
 
 📫 Mail - shubhdadhich81@gmail.com
-📝 I consistently share my Contents: <a href="https://www.linkedin.com/in/shubhcloud/" target="blank"/>
+📝 I consistently share my Contents: <a href="https://www.linkedin.com/in/shubhcloud/" target="blank"></a>
 </p>
 
 
