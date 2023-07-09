@@ -15,6 +15,36 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 ### My Technical Contribution - Kubernetes
 
 - <a href= "https://youtu.be/mniezV8NlZI" target="blank"> Traditional Deployments</a>
+- <a href= "https://youtu.be/AhENrIOaqhY" target="blank"> Virtualized Deployment</a>
+- <a href= "https://youtu.be/P7G3qJZr6BM" target="blank"> Container Deployments</a>
+- <a href= "https://youtu.be/Mg9pflnb96o" target="blank"> Orchestration Deployments</a>
+- <a href= "https://youtu.be/Pc-dzfelUV8" target="blank"> Kuberentes - Architecture and it's component</a>
+- <a href= "https://youtu.be/tqMI_ftBeVk" target="blank"> Kuberentes - API Server</a>
+- <a href= "https://youtu.be/zxRxVS-Rooo" target="blank"> Kuberentes - Control Manager</a>
+- <a href= "https://youtu.be/KIWzdSxXk6M" target="blank"> Kuberentes - ETCD</a>
+- <a href= "https://youtu.be/ZyTgTlK0GLA" target="blank"> Kuberentes - Scheduler</a>
+- <a href= "https://youtu.be/afN89O6l7wo" target="blank"> Kuberentes - Kube-Proxy</a>
+- <a href= "https://youtu.be/OSX8_EZcW1I" target="blank"> Kuberentes - Kubelet</a>
+- <a href= "https://youtu.be/7ePiPK9e8VM" target="blank"> Kuberentes - Pods</a>
+- <a href= "https://youtu.be/u2VCRlRe3Bs" target="blank"> Kuberentes - Pod Creation</a>
+- <a href= "https://youtu.be/20yFJS6-SgQ" target="blank"> Kuberentes - Namespaces</a>
+- <a href= "https://youtu.be/0Db3rJtU1_A" target="blank"> Kuberentes - Namespace creation & Multi Container</a>
+- <a href= "https://youtu.be/fnL0IiuUU3M" target="blank"> Kuberentes - Service</a>
+- <a href= "https://youtu.be/CorsdmPszL4" target="blank"> Kuberentes - NodePort</a>
+- <a href= "https://youtu.be/r8d3knPSsfc" target="blank"> Kuberentes - ClusterIP</a>
+- <a href= "https://youtu.be/15HDpuAWXI0" target="blank"> Kuberentes - LoadBalancer</a>
+- <a href= "https://youtu.be/7W2KOpDdWUQ" target="blank"> Kuberentes - Volumes</a>
+- <a href= "https://youtu.be/7n0ieVCP3_Y" target="blank"> Kuberentes - EmptyDir</a>
+- <a href= "https://youtu.be/rXFvRqoDpN4" target="blank"> Kuberentes - HostPath</a>
+- <a href= "https://youtu.be/-fpNr0vYbnc" target="blank"> Kuberentes - PV & PVC</a>
+- <a href= "https://youtu.be/LWaqljnPAkw" target="blank"> Kuberentes - PV & PVC creation</a>
+- <a href= "https://youtu.be/_jkqj8BG1B4" target="blank"> Kuberentes - ReplicaSet</a>
+- <a href= "https://youtu.be/eycG0XWv1r0" target="blank"> Kuberentes - ReplicaSet Creation</a>
+- <a href= "https://youtu.be/VLDKXTbpJnk" target="blank"> Kuberentes - Deployment</a>
+- <a href= "https://youtu.be/iNXDWSac6sE" target="blank"> Kuberentes - Deployment creation</a>
+- <a href= "https://youtu.be/x83Xr98tnwA" target="blank"> Kuberentes - Network Policy</a>
+- <a href= "https://youtu.be/yzWug9xhgd4" target="blank"> Kuberentes - Network Policy creation</a>
+
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
