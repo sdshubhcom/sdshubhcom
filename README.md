@@ -3,8 +3,10 @@
 I am <a href="https://www.linkedin.com/in/shubhcloud/" target="blank">Shubh Dadhich</a> you can call me Shubh.
 
 Having 2 years of experience in IT with with Masters education(MCA). Passionate about cloud and Devops. Currently working as a Research Associate - Devops/Kubernetes at CloudThat.
+
 🎯𝘝𝘰𝘭𝘶𝘯𝘵𝘦𝘦𝘳𝘪𝘯𝘨 𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘪𝘦𝘴 𝘭𝘪𝘬𝘦 𝗖𝗹𝗼𝘂𝗱𝗻𝗟𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆.
-👩‍💻I am incredibly passionate about 𝗔𝗪𝗦𝗖𝗹𝗼𝘂𝗱. I am delighted to share that 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗗𝗮𝘁𝗮 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. My Aim is to empower and nurture future #aws Leaders in the field of AWS data Engineering.
+
+👩‍💻I am passionate about **CNCF/Kubernetes**. I am delighted to share that 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 **CNCF** 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. My Aim is to empower and nurture future #CNCF Leaders in the field of a CNCF and Microservices.
 
 # Technical Skills
 ✨ AWS - EC2, Auto Scalling, Route53, S3, Lambda, IAM, VPC, EIP, EFS, CloudFront
@@ -75,6 +77,8 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 <a href="https://www.linkedin.com/in/shubhcloud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhcloud" height="30" width="40" /></a>
 <a href="https://www.youtube.com/playlist?list=PLh_VNk4-EHTO1219rJzV1J9deFRyAsERn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
 </p>
+
+<img align="center" src="https://icons8.com/icon/qyRpAggnV0zH/gmail-new" alt="cloudnloud" height="30" width="40" /> 
 
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
