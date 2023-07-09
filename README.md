@@ -69,11 +69,11 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 - <a href= "https://youtu.be/qC8k1zO8_Uk">Kubernetes Administration Training - Day 4</a>
 
 # Connect with me 🤝🏻
-
+<p align="left">
 <a href="https://www.linkedin.com/in/shubhcloud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhcloud" height="30" width="40" /></a>
 
 <a href="https://www.youtube.com/playlist?list=PLh_VNk4-EHTO1219rJzV1J9deFRyAsERn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
-
+</p>
 
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
