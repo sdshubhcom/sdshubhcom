@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Shubh Dadhich <a href="https://www.linkedin.com/in/shubhcloud/" target="blank"></a>
+I am <a href="https://www.linkedin.com/in/shubhcloud/" target="blank">Shubh Dadhich</a>
 
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
