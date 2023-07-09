@@ -65,7 +65,10 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 - <a href= "https://youtu.be/rMfNO983XI4">Kubernetes Administration Training - Day 2</a>
 - <a href= "https://youtu.be/Dmii7CkFTsA">Kubernetes Administration Training - Day 3</a>
 - <a href= "https://youtu.be/qC8k1zO8_Uk">Kubernetes Administration Training - Day 4</a>
-  
+
+# GitHub Stats
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sdshubhcom)](https://github.com/sdshubhcom)
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
