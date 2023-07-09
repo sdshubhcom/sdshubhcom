@@ -1,18 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
 I am <a href="https://www.linkedin.com/in/shubhcloud/" target="blank">Shubh Dadhich</a> you can call me Shubh.
 
 Having 2 years of experience in IT with with Masters education(MCA). Passionate about cloud and Devops. Currently working as a Research Associate - Devops/Kubernetes at CloudThat 
 
-### Technical Skills
+# Technical Skills
 ✨ AWS - EC2, Auto Scalling, Route53, S3, Lambda, IAM, VPC, EIP, EFS, CloudFront
+
 ✨ Docker
+
 ✨ Kubernetes
+
 ✨ Jenkins
+
 ✨ Ansible
+
 ✨ Terraform
 
-### My Technical Contribution - Kubernetes
+# My Technical Contribution - Kubernetes
 
 - <a href= "https://youtu.be/mniezV8NlZI" target="blank"> Traditional Deployments</a>
 - <a href= "https://youtu.be/AhENrIOaqhY" target="blank"> Virtualized Deployment</a>
