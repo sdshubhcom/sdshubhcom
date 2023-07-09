@@ -54,17 +54,17 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 
 # Blogs - Kubernetes
 
-- <a href= "https://blog.cloudnloud.com/kubernetes-introduction-architecture"Kubernetes-introduction-architecture</a>
-- <a href= "https://blog.cloudnloud.com/kubernetes-pods-and-namespaces"Kubernetes-pods-and-namespaces</a>
-- <a href= "https://blog.cloudnloud.com/kubernetes-replicaset-and-deployment"Kubernetes-Replicaset-and-deployment</a>
-- <a href= "https://blog.cloudnloud.com/kubernetes-service-nodeport-clusterip-loadbalancer"Kubernetes-service-nodeport-clusterip-loadbalancer</a>
+- <a href= "https://blog.cloudnloud.com/kubernetes-introduction-architecture">Kubernetes-introduction-architecture</a>
+- <a href= "https://blog.cloudnloud.com/kubernetes-pods-and-namespaces">Kubernetes-pods-and-namespaces</a>
+- <a href= "https://blog.cloudnloud.com/kubernetes-replicaset-and-deployment">Kubernetes-Replicaset-and-deployment</a>
+- <a href= "https://blog.cloudnloud.com/kubernetes-service-nodeport-clusterip-loadbalancer">Kubernetes-service-nodeport-clusterip-loadbalancer</a>
 
 # Meetups - Kubernetes
 
-- <a href= "https://youtu.be/P85h2-bTR1Q"Kubernetes Administration Training - Day 1</a>
-- <a href= "https://youtu.be/rMfNO983XI4"Kubernetes Administration Training - Day 2</a>
-- <a href= "https://youtu.be/Dmii7CkFTsA"Kubernetes Administration Training - Day 3</a>
-- <a href= "https://youtu.be/qC8k1zO8_Uk"Kubernetes Administration Training - Day 4</a>
+- <a href= "https://youtu.be/P85h2-bTR1Q">Kubernetes Administration Training - Day 1</a>
+- <a href= "https://youtu.be/rMfNO983XI4">Kubernetes Administration Training - Day 2</a>
+- <a href= "https://youtu.be/Dmii7CkFTsA">Kubernetes Administration Training - Day 3</a>
+- <a href= "https://youtu.be/qC8k1zO8_Uk">Kubernetes Administration Training - Day 4</a>
   
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
