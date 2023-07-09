@@ -78,8 +78,6 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 <a href="https://www.youtube.com/playlist?list=PLh_VNk4-EHTO1219rJzV1J9deFRyAsERn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://icons8.com/icon/qyRpAggnV0zH/gmail-new" alt="cloudnloud" height="30" width="40" /> 
-
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
