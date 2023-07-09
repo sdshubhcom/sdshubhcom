@@ -14,7 +14,7 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 
 ### My Technical Contribution - Kubernetes
 
-- https://youtu.be/mniezV8NlZI
+- <a href= "https://youtu.be/mniezV8NlZI" target="blank"> Traditional Deployments</a>
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
