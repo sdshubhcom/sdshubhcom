@@ -69,6 +69,8 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 # GitHub Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sdshubhcom)](https://github.com/sdshubhcom)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdshubhcom&layout=compact)](https://github.com/sdshubhcom)
 <!--
 **sdshubhcom/sdshubhcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
