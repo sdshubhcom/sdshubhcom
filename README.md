@@ -33,6 +33,7 @@ Having 2 years of experience in IT with with Masters education(MCA). Passionate 
 # Certifications
 
 ✨ CKA - Cerfied Kubernetes Adminitrator
+
 Badge Link: <a href= "https://www.credly.com/badges/8f8fd9b4-3ffa-4ece-98d3-9d6345cf8ef0" target="blank"> CKA Badge </a>
 
 # My Technical Contribution - Kubernetes
